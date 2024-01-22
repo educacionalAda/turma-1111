@@ -1,3 +1,5 @@
+
+
 # Exercicio 3
 
 1. Implemente a lógica para o método checarPalindromo.
